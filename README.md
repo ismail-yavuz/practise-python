@@ -1,2 +1,3 @@
-# dice-rolling
-Simple dice rolling in Python
+# H.Y.P.E.
+
+1-throwdice.py //Simple dice rolling in Python
